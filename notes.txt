@@ -69,3 +69,8 @@ Explain the pipeline for developing sentiment analysis task.
 ▪ Classify the data using appropriate machine learning techniques to generate labels.
 ▪ Analyze the labels and explain the impact of embedding techniques in misclassification.
 ▪ Discuss the limitations of each embedding technique and explain the techniques that rectify it. 
+
+
+https://github.com/Mr-Appu/College-Dump/tree/main/NLP
+
+
