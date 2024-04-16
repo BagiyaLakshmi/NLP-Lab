@@ -1,0 +1,71 @@
+1. Exercise 1:
+Identify the list of candidate words using Trie structure for the misspelled word. Find the minimum
+edit distance and choose the correct word based on the context.
+
+2. Exercise 2: 
+Sentimental analysis 
+Dataset :  https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset
+
+3. Exercise 3: 
+Application: Extractive Text Summarization
+
+4. Exercise 4: 
+Application: Hate Speech Identification
+Dataset : https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset
+
+5. Exercise 5:
+Application: Hate Speech Identification
+Dataset: https://www.kaggle.com/datasets/abhinavwalia95/entity-annotated-corpus
+
+6. Exercise 6:
+Application: Keyword Extraction
+
+7. Exercise 7: 
+Sentence compression 
+
+9. Exercise 9: 
+Machine Translation
+---------------------------------------------------
+
+Question – 1 
+Build a language generation model that can read an input document and generate few more sentences that can provide addition details on the same context. 
+
+Question – 2 
+Build a language generation model that can generate headline for the given input document. (Perform syntactic and semantic analysis on the input)
+
+Question – 3
+Build a summarization model that can generate abstractive summary (word count exactly 100) for any input document.
+
+Question – 4
+Build a classification model that can detect the offensive sentence. Identify the offensive token and replace it with a non-offensive one.
+
+Question – 5
+Build a classification model that is trained on the dataset: “News-Headlines-Dataset-For-Sarcasm” to perform sarcasm detection and rephrase the sarcasm headlines to a non-sarcasm content.
+ref: https://www.kaggle.com/code/anaidalewis/nlp-miniproject-sarcasm-detection
+
+Question – 6 
+Build a model that reads Tamil-English code-mixed input and translates into English text without any contextual change.
+
+Question – 7
+Build a question answering model that reads a document, frames a question and generates suitable answers. (Note: Answers should not be extracted from the input). 
+
+Question – 8 
+Build a model that gets English sentence as an input, identifies the tense of it and convert in to another tense. 
+
+---------------------------------------------------
+
+
+
+PIPELINE FOR NLP PROJECT
+
+Explain the pipeline for developing sentiment analysis task.
+▪ Perform cleaning and preprocessing of text.
+▪ Generate representations using:
+• Bag of Words
+• TF-IDF
+• Continuous Bag of Words
+• Skip gram
+• Word2Vec.
+▪ Classify the data using appropriate machine learning techniques to generate labels.
+▪ Analyze the labels and explain the impact of embedding techniques in misclassification.
+▪ Discuss the limitations of each embedding technique and explain the techniques that rectify it. 
