@@ -76,3 +76,12 @@ https://github.com/Mr-Appu/College-Dump/tree/main/NLP
 https://github.com/riya2025/END_LAB_NLP
 
 https://github.com/MuthuPalaniappan925/NLP-Dump
+
+***VIVA***
+NLP LAB: 
+
+Base model for BERT 
+difference between autoencoders and transformers 
+LSTM 
+Word2vec 
+advantages n disadvat of vector
